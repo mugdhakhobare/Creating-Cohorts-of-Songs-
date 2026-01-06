@@ -7,6 +7,7 @@ Personalized recommendations are a key factor in enhancing user experience on mu
 The dataset used contains audio feature information for Rolling Stones songs available on Spotify. Using Exploratory Data Analysis (EDA) and K-Means clustering, similar songs are grouped into meaningful cohorts.
 
 
+
 🎯 Objective
 
 Perform Exploratory Data Analysis (EDA) on Spotify song data
@@ -16,6 +17,8 @@ Identify patterns influencing song popularity
 Create song cohorts using unsupervised machine learning
 
 Interpret clusters to support personalized music recommendations
+
+
 
 
 📂 Dataset Description
@@ -41,6 +44,8 @@ duration_ms – Duration of the song
 Each song is uniquely identified using a Spotify ID.
 
 
+
+
 🛠️ Technologies & Libraries Used
 
 Python
@@ -56,6 +61,8 @@ StandardScaler
 K-Means Clustering
 
 PCA (Principal Component Analysis)
+
+
 
 
 🔍 Project Workflow
@@ -81,6 +88,8 @@ Dimensionality Reduction using PCA
 Business Insights & Conclusion
 
 
+
+
 📊 Key Insights
 
 Songs were successfully grouped into distinct cohorts based on audio features.
@@ -98,6 +107,8 @@ Emotional and low-valence songs
 PCA helped in visualizing clusters effectively by reducing dimensionality.
 
 
+
+
 📈 Business Relevance
 
 Helps in personalized song recommendations
@@ -107,3 +118,10 @@ Supports mood-based playlist creation
 Enhances user engagement and retention
 
 Useful for music analytics and recommendation systems
+
+
+
+
+🚀 Conclusion
+
+This project demonstrates how unsupervised learning techniques like clustering can be used to extract meaningful insights from music data. The results can be leveraged to improve recommendation systems and deliver a better listening experience to users.
