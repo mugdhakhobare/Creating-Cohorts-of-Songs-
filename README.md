@@ -1,6 +1,6 @@
 # Creating Cohorts of Songs using Clustering (Spotify Data)
 
-📌 Project Overview
+📌 Project Overview :
 
 Personalized recommendations are a key factor in enhancing user experience on music streaming platforms like Spotify. This project focuses on creating cohorts (clusters) of songs based on their audio features to better understand song similarities and enable improved recommendation strategies.
 
@@ -8,7 +8,7 @@ The dataset used contains audio feature information for Rolling Stones songs ava
 
 
 
-🎯 Objective
+🎯 Objective :
 
 Perform Exploratory Data Analysis (EDA) on Spotify song data
 
@@ -21,7 +21,7 @@ Interpret clusters to support personalized music recommendations
 
 
 
-📂 Dataset Description
+📂 Dataset Description :
 
 The dataset is sourced from Spotify’s API and contains the following key attributes:
 
@@ -46,7 +46,7 @@ Each song is uniquely identified using a Spotify ID.
 
 
 
-🛠️ Technologies & Libraries Used
+🛠️ Technologies & Libraries Used :
 
 Python
 
@@ -65,7 +65,7 @@ PCA (Principal Component Analysis)
 
 
 
-🔍 Project Workflow
+🔍 Project Workflow :
 
 Data Loading & Inspection
 
@@ -90,7 +90,7 @@ Business Insights & Conclusion
 
 
 
-📊 Key Insights
+📊 Key Insights :
 
 Songs were successfully grouped into distinct cohorts based on audio features.
 
@@ -109,7 +109,7 @@ PCA helped in visualizing clusters effectively by reducing dimensionality.
 
 
 
-📈 Business Relevance
+📈 Business Relevance :
 
 Helps in personalized song recommendations
 
@@ -122,6 +122,6 @@ Useful for music analytics and recommendation systems
 
 
 
-🚀 Conclusion
+🚀 Conclusion :
 
 This project demonstrates how unsupervised learning techniques like clustering can be used to extract meaningful insights from music data. The results can be leveraged to improve recommendation systems and deliver a better listening experience to users.
